@@ -49,6 +49,6 @@ Para adaptar la plantilla original a los requerimientos de la rúbrica, seguí e
 
 *(Aquí se muestra el portafolio renderizado en el navegador)*
 
-![Captura de Inicio](cap1.png)
-![Captura de Proyectos](cap2.png)
-![Captura de sobre mi](cap3.png)
+![Captura de Inicio](img/cap1.png)
+![Captura de Proyectos](img/cap2.png)
+![Captura de sobre mi](img/cap3.png)
